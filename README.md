@@ -7,3 +7,6 @@ The SWIFT review datasets can be retrieved from Howard, B.E., Phillips, J., Mill
 The drug review datasets can be retrieved from Cohen AM, Hersh WR, Peterson K, Yen PY. Reducing Workload in Systematic Review Preparation Using Automated Citation Classification. JAMIA 2006: https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html 
 
 Please download the datasets and develop your own script using Entrez (https://biopython.org/docs/1.75/api/Bio.Entrez.html) to obtain title and abstracts. Some articles do not contain an abstract, as they are interviews or book chapters.
+
+## Citing this code
+For citing this code, please refer to `van Dinter, R., Catal, C., & Tekinerdogan, B. (2021). A Multi-Channel Convolutional Neural Network approach to automate the citation screening process. Applied Soft Computing, 112, 107765.`
